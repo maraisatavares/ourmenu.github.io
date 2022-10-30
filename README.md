@@ -21,7 +21,7 @@ Pasta para todos os exercícios do Coursera - ainda precisa de correção.
 				 <p id="sushi" class="titlesushi"> Sushi</p> 
 					
 					 <p id="p3" class="textsushi">BeefLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p> </section> </div>
-			</body>
+			</body> </html>
 <style type="text/css">
 
 * {
